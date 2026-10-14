@@ -1,0 +1,6 @@
+{
+  "name": "DisasterShield - Emergency Response Coordination System",
+  "description": "Centralized disaster management and emergency response coordination platform uniting Citizens, Volunteers, Rescue Teams, and Head Office operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
